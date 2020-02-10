@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-probe-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-probe-app/static/js/main.2ba73e16.chunk.js",
+    "main.js.map": "/my-probe-app/static/js/main.2ba73e16.chunk.js.map",
+    "runtime-main.js": "/my-probe-app/static/js/runtime-main.4541bec6.js",
+    "runtime-main.js.map": "/my-probe-app/static/js/runtime-main.4541bec6.js.map",
+    "static/js/2.4cead2d4.chunk.js": "/my-probe-app/static/js/2.4cead2d4.chunk.js",
+    "static/js/2.4cead2d4.chunk.js.map": "/my-probe-app/static/js/2.4cead2d4.chunk.js.map",
+    "index.html": "/my-probe-app/index.html",
+    "precache-manifest.d0368129add4020a14732c26caa9687b.js": "/my-probe-app/precache-manifest.d0368129add4020a14732c26caa9687b.js",
+    "service-worker.js": "/my-probe-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/my-probe-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4cead2d4.chunk.js.LICENSE.txt": "/my-probe-app/static/js/2.4cead2d4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-probe-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4541bec6.js",
+    "static/js/2.4cead2d4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2ba73e16.chunk.js"
+  ]
+}
